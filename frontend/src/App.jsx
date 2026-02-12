@@ -1,8 +1,12 @@
 import { useState, useEffect, useCallback } from 'react'
 
-const API_BASE = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000/api/blocks'
-const WS_URL = import.meta.env.VITE_WS_URL || 'ws://127.0.0.1:8000/ws/grid/'
-const STATS_URL = (import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000/api/blocks').replace(/\/$/, '') + '/leaderboard/'
+// const API_BASE = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000/api/blocks'
+// const WS_URL = import.meta.env.VITE_WS_URL || 'ws://127.0.0.1:8000/ws/grid/'
+//const STATS_URL = (import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000/api/blocks').replace(/\/$/, '') + '/leaderboard/'
+
+const API_BASE = import.meta.env.VITE_API_URL || 'http://127.0.0.1:8000/api/blocks';
+const WS_URL = import.meta.env.VITE_WS_URL || 'ws://127.0.0.1:8000/ws/grid/';
+const STATS_URL = `${API_BASE.replace(/\/$/, '')}/leaderboard/`;  // Simplified using API_BASE
 
 
 function App() {
