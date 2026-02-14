@@ -1,0 +1,9902 @@
+[
+{
+  "model": "grid.block",
+  "pk": 1,
+  "fields": {
+    "row": 0,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 2,
+  "fields": {
+    "row": 0,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 3,
+  "fields": {
+    "row": 0,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 4,
+  "fields": {
+    "row": 0,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 5,
+  "fields": {
+    "row": 0,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 6,
+  "fields": {
+    "row": 0,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 7,
+  "fields": {
+    "row": 0,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 8,
+  "fields": {
+    "row": 0,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 9,
+  "fields": {
+    "row": 0,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 10,
+  "fields": {
+    "row": 0,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 11,
+  "fields": {
+    "row": 0,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 12,
+  "fields": {
+    "row": 0,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 13,
+  "fields": {
+    "row": 0,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 14,
+  "fields": {
+    "row": 0,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 15,
+  "fields": {
+    "row": 0,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 16,
+  "fields": {
+    "row": 0,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 17,
+  "fields": {
+    "row": 0,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 18,
+  "fields": {
+    "row": 0,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 19,
+  "fields": {
+    "row": 0,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 20,
+  "fields": {
+    "row": 0,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 21,
+  "fields": {
+    "row": 0,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 22,
+  "fields": {
+    "row": 0,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 23,
+  "fields": {
+    "row": 0,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 24,
+  "fields": {
+    "row": 0,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 25,
+  "fields": {
+    "row": 0,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 26,
+  "fields": {
+    "row": 0,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 27,
+  "fields": {
+    "row": 0,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 28,
+  "fields": {
+    "row": 0,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 29,
+  "fields": {
+    "row": 0,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 30,
+  "fields": {
+    "row": 0,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 31,
+  "fields": {
+    "row": 1,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 32,
+  "fields": {
+    "row": 1,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 33,
+  "fields": {
+    "row": 1,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 34,
+  "fields": {
+    "row": 1,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 35,
+  "fields": {
+    "row": 1,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 36,
+  "fields": {
+    "row": 1,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 37,
+  "fields": {
+    "row": 1,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 38,
+  "fields": {
+    "row": 1,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 39,
+  "fields": {
+    "row": 1,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 40,
+  "fields": {
+    "row": 1,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 41,
+  "fields": {
+    "row": 1,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 42,
+  "fields": {
+    "row": 1,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 43,
+  "fields": {
+    "row": 1,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 44,
+  "fields": {
+    "row": 1,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 45,
+  "fields": {
+    "row": 1,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 46,
+  "fields": {
+    "row": 1,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 47,
+  "fields": {
+    "row": 1,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 48,
+  "fields": {
+    "row": 1,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 49,
+  "fields": {
+    "row": 1,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 50,
+  "fields": {
+    "row": 1,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 51,
+  "fields": {
+    "row": 1,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 52,
+  "fields": {
+    "row": 1,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 53,
+  "fields": {
+    "row": 1,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 54,
+  "fields": {
+    "row": 1,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 55,
+  "fields": {
+    "row": 1,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 56,
+  "fields": {
+    "row": 1,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 57,
+  "fields": {
+    "row": 1,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 58,
+  "fields": {
+    "row": 1,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 59,
+  "fields": {
+    "row": 1,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 60,
+  "fields": {
+    "row": 1,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 61,
+  "fields": {
+    "row": 2,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 62,
+  "fields": {
+    "row": 2,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 63,
+  "fields": {
+    "row": 2,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 64,
+  "fields": {
+    "row": 2,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 65,
+  "fields": {
+    "row": 2,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 66,
+  "fields": {
+    "row": 2,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 67,
+  "fields": {
+    "row": 2,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 68,
+  "fields": {
+    "row": 2,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 69,
+  "fields": {
+    "row": 2,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 70,
+  "fields": {
+    "row": 2,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 71,
+  "fields": {
+    "row": 2,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 72,
+  "fields": {
+    "row": 2,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 73,
+  "fields": {
+    "row": 2,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 74,
+  "fields": {
+    "row": 2,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 75,
+  "fields": {
+    "row": 2,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 76,
+  "fields": {
+    "row": 2,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 77,
+  "fields": {
+    "row": 2,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 78,
+  "fields": {
+    "row": 2,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 79,
+  "fields": {
+    "row": 2,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 80,
+  "fields": {
+    "row": 2,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 81,
+  "fields": {
+    "row": 2,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 82,
+  "fields": {
+    "row": 2,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 83,
+  "fields": {
+    "row": 2,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 84,
+  "fields": {
+    "row": 2,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 85,
+  "fields": {
+    "row": 2,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 86,
+  "fields": {
+    "row": 2,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 87,
+  "fields": {
+    "row": 2,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 88,
+  "fields": {
+    "row": 2,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 89,
+  "fields": {
+    "row": 2,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 90,
+  "fields": {
+    "row": 2,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 91,
+  "fields": {
+    "row": 3,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 92,
+  "fields": {
+    "row": 3,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 93,
+  "fields": {
+    "row": 3,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 94,
+  "fields": {
+    "row": 3,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 95,
+  "fields": {
+    "row": 3,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 96,
+  "fields": {
+    "row": 3,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 97,
+  "fields": {
+    "row": 3,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 98,
+  "fields": {
+    "row": 3,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 99,
+  "fields": {
+    "row": 3,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 100,
+  "fields": {
+    "row": 3,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 101,
+  "fields": {
+    "row": 3,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 102,
+  "fields": {
+    "row": 3,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 103,
+  "fields": {
+    "row": 3,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 104,
+  "fields": {
+    "row": 3,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 105,
+  "fields": {
+    "row": 3,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 106,
+  "fields": {
+    "row": 3,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 107,
+  "fields": {
+    "row": 3,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 108,
+  "fields": {
+    "row": 3,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 109,
+  "fields": {
+    "row": 3,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 110,
+  "fields": {
+    "row": 3,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 111,
+  "fields": {
+    "row": 3,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 112,
+  "fields": {
+    "row": 3,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 113,
+  "fields": {
+    "row": 3,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 114,
+  "fields": {
+    "row": 3,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 115,
+  "fields": {
+    "row": 3,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 116,
+  "fields": {
+    "row": 3,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 117,
+  "fields": {
+    "row": 3,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 118,
+  "fields": {
+    "row": 3,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 119,
+  "fields": {
+    "row": 3,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 120,
+  "fields": {
+    "row": 3,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 121,
+  "fields": {
+    "row": 4,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 122,
+  "fields": {
+    "row": 4,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 123,
+  "fields": {
+    "row": 4,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 124,
+  "fields": {
+    "row": 4,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 125,
+  "fields": {
+    "row": 4,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 126,
+  "fields": {
+    "row": 4,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 127,
+  "fields": {
+    "row": 4,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 128,
+  "fields": {
+    "row": 4,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 129,
+  "fields": {
+    "row": 4,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 130,
+  "fields": {
+    "row": 4,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 131,
+  "fields": {
+    "row": 4,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 132,
+  "fields": {
+    "row": 4,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 133,
+  "fields": {
+    "row": 4,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 134,
+  "fields": {
+    "row": 4,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 135,
+  "fields": {
+    "row": 4,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 136,
+  "fields": {
+    "row": 4,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 137,
+  "fields": {
+    "row": 4,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 138,
+  "fields": {
+    "row": 4,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 139,
+  "fields": {
+    "row": 4,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 140,
+  "fields": {
+    "row": 4,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 141,
+  "fields": {
+    "row": 4,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 142,
+  "fields": {
+    "row": 4,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 143,
+  "fields": {
+    "row": 4,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 144,
+  "fields": {
+    "row": 4,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 145,
+  "fields": {
+    "row": 4,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 146,
+  "fields": {
+    "row": 4,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 147,
+  "fields": {
+    "row": 4,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 148,
+  "fields": {
+    "row": 4,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 149,
+  "fields": {
+    "row": 4,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 150,
+  "fields": {
+    "row": 4,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 151,
+  "fields": {
+    "row": 5,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 152,
+  "fields": {
+    "row": 5,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 153,
+  "fields": {
+    "row": 5,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 154,
+  "fields": {
+    "row": 5,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 155,
+  "fields": {
+    "row": 5,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 156,
+  "fields": {
+    "row": 5,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 157,
+  "fields": {
+    "row": 5,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 158,
+  "fields": {
+    "row": 5,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 159,
+  "fields": {
+    "row": 5,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 160,
+  "fields": {
+    "row": 5,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 161,
+  "fields": {
+    "row": 5,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 162,
+  "fields": {
+    "row": 5,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 163,
+  "fields": {
+    "row": 5,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 164,
+  "fields": {
+    "row": 5,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 165,
+  "fields": {
+    "row": 5,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 166,
+  "fields": {
+    "row": 5,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 167,
+  "fields": {
+    "row": 5,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 168,
+  "fields": {
+    "row": 5,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 169,
+  "fields": {
+    "row": 5,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 170,
+  "fields": {
+    "row": 5,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 171,
+  "fields": {
+    "row": 5,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 172,
+  "fields": {
+    "row": 5,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 173,
+  "fields": {
+    "row": 5,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 174,
+  "fields": {
+    "row": 5,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 175,
+  "fields": {
+    "row": 5,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 176,
+  "fields": {
+    "row": 5,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 177,
+  "fields": {
+    "row": 5,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 178,
+  "fields": {
+    "row": 5,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 179,
+  "fields": {
+    "row": 5,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 180,
+  "fields": {
+    "row": 5,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 181,
+  "fields": {
+    "row": 6,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 182,
+  "fields": {
+    "row": 6,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 183,
+  "fields": {
+    "row": 6,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 184,
+  "fields": {
+    "row": 6,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 185,
+  "fields": {
+    "row": 6,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 186,
+  "fields": {
+    "row": 6,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 187,
+  "fields": {
+    "row": 6,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 188,
+  "fields": {
+    "row": 6,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 189,
+  "fields": {
+    "row": 6,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 190,
+  "fields": {
+    "row": 6,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 191,
+  "fields": {
+    "row": 6,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 192,
+  "fields": {
+    "row": 6,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 193,
+  "fields": {
+    "row": 6,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 194,
+  "fields": {
+    "row": 6,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 195,
+  "fields": {
+    "row": 6,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 196,
+  "fields": {
+    "row": 6,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 197,
+  "fields": {
+    "row": 6,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 198,
+  "fields": {
+    "row": 6,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 199,
+  "fields": {
+    "row": 6,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 200,
+  "fields": {
+    "row": 6,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 201,
+  "fields": {
+    "row": 6,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 202,
+  "fields": {
+    "row": 6,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 203,
+  "fields": {
+    "row": 6,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 204,
+  "fields": {
+    "row": 6,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 205,
+  "fields": {
+    "row": 6,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 206,
+  "fields": {
+    "row": 6,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 207,
+  "fields": {
+    "row": 6,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 208,
+  "fields": {
+    "row": 6,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 209,
+  "fields": {
+    "row": 6,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 210,
+  "fields": {
+    "row": 6,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 211,
+  "fields": {
+    "row": 7,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 212,
+  "fields": {
+    "row": 7,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 213,
+  "fields": {
+    "row": 7,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 214,
+  "fields": {
+    "row": 7,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 215,
+  "fields": {
+    "row": 7,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 216,
+  "fields": {
+    "row": 7,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 217,
+  "fields": {
+    "row": 7,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 218,
+  "fields": {
+    "row": 7,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 219,
+  "fields": {
+    "row": 7,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 220,
+  "fields": {
+    "row": 7,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 221,
+  "fields": {
+    "row": 7,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 222,
+  "fields": {
+    "row": 7,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 223,
+  "fields": {
+    "row": 7,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 224,
+  "fields": {
+    "row": 7,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 225,
+  "fields": {
+    "row": 7,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 226,
+  "fields": {
+    "row": 7,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 227,
+  "fields": {
+    "row": 7,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 228,
+  "fields": {
+    "row": 7,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 229,
+  "fields": {
+    "row": 7,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 230,
+  "fields": {
+    "row": 7,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 231,
+  "fields": {
+    "row": 7,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 232,
+  "fields": {
+    "row": 7,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 233,
+  "fields": {
+    "row": 7,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 234,
+  "fields": {
+    "row": 7,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 235,
+  "fields": {
+    "row": 7,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 236,
+  "fields": {
+    "row": 7,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 237,
+  "fields": {
+    "row": 7,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 238,
+  "fields": {
+    "row": 7,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 239,
+  "fields": {
+    "row": 7,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 240,
+  "fields": {
+    "row": 7,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 241,
+  "fields": {
+    "row": 8,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 242,
+  "fields": {
+    "row": 8,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 243,
+  "fields": {
+    "row": 8,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 244,
+  "fields": {
+    "row": 8,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 245,
+  "fields": {
+    "row": 8,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 246,
+  "fields": {
+    "row": 8,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 247,
+  "fields": {
+    "row": 8,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 248,
+  "fields": {
+    "row": 8,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 249,
+  "fields": {
+    "row": 8,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 250,
+  "fields": {
+    "row": 8,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 251,
+  "fields": {
+    "row": 8,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 252,
+  "fields": {
+    "row": 8,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 253,
+  "fields": {
+    "row": 8,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 254,
+  "fields": {
+    "row": 8,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 255,
+  "fields": {
+    "row": 8,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 256,
+  "fields": {
+    "row": 8,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 257,
+  "fields": {
+    "row": 8,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 258,
+  "fields": {
+    "row": 8,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 259,
+  "fields": {
+    "row": 8,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 260,
+  "fields": {
+    "row": 8,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 261,
+  "fields": {
+    "row": 8,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 262,
+  "fields": {
+    "row": 8,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 263,
+  "fields": {
+    "row": 8,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 264,
+  "fields": {
+    "row": 8,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 265,
+  "fields": {
+    "row": 8,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 266,
+  "fields": {
+    "row": 8,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 267,
+  "fields": {
+    "row": 8,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 268,
+  "fields": {
+    "row": 8,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 269,
+  "fields": {
+    "row": 8,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 270,
+  "fields": {
+    "row": 8,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 271,
+  "fields": {
+    "row": 9,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 272,
+  "fields": {
+    "row": 9,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 273,
+  "fields": {
+    "row": 9,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 274,
+  "fields": {
+    "row": 9,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 275,
+  "fields": {
+    "row": 9,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 276,
+  "fields": {
+    "row": 9,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 277,
+  "fields": {
+    "row": 9,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 278,
+  "fields": {
+    "row": 9,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 279,
+  "fields": {
+    "row": 9,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 280,
+  "fields": {
+    "row": 9,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 281,
+  "fields": {
+    "row": 9,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 282,
+  "fields": {
+    "row": 9,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 283,
+  "fields": {
+    "row": 9,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 284,
+  "fields": {
+    "row": 9,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 285,
+  "fields": {
+    "row": 9,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 286,
+  "fields": {
+    "row": 9,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 287,
+  "fields": {
+    "row": 9,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 288,
+  "fields": {
+    "row": 9,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 289,
+  "fields": {
+    "row": 9,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 290,
+  "fields": {
+    "row": 9,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 291,
+  "fields": {
+    "row": 9,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 292,
+  "fields": {
+    "row": 9,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 293,
+  "fields": {
+    "row": 9,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 294,
+  "fields": {
+    "row": 9,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 295,
+  "fields": {
+    "row": 9,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 296,
+  "fields": {
+    "row": 9,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 297,
+  "fields": {
+    "row": 9,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 298,
+  "fields": {
+    "row": 9,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 299,
+  "fields": {
+    "row": 9,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 300,
+  "fields": {
+    "row": 9,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 301,
+  "fields": {
+    "row": 10,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 302,
+  "fields": {
+    "row": 10,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 303,
+  "fields": {
+    "row": 10,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 304,
+  "fields": {
+    "row": 10,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 305,
+  "fields": {
+    "row": 10,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 306,
+  "fields": {
+    "row": 10,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 307,
+  "fields": {
+    "row": 10,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 308,
+  "fields": {
+    "row": 10,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 309,
+  "fields": {
+    "row": 10,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 310,
+  "fields": {
+    "row": 10,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 311,
+  "fields": {
+    "row": 10,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 312,
+  "fields": {
+    "row": 10,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 313,
+  "fields": {
+    "row": 10,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 314,
+  "fields": {
+    "row": 10,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 315,
+  "fields": {
+    "row": 10,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 316,
+  "fields": {
+    "row": 10,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 317,
+  "fields": {
+    "row": 10,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 318,
+  "fields": {
+    "row": 10,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 319,
+  "fields": {
+    "row": 10,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 320,
+  "fields": {
+    "row": 10,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 321,
+  "fields": {
+    "row": 10,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 322,
+  "fields": {
+    "row": 10,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 323,
+  "fields": {
+    "row": 10,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 324,
+  "fields": {
+    "row": 10,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 325,
+  "fields": {
+    "row": 10,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 326,
+  "fields": {
+    "row": 10,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 327,
+  "fields": {
+    "row": 10,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 328,
+  "fields": {
+    "row": 10,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 329,
+  "fields": {
+    "row": 10,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 330,
+  "fields": {
+    "row": 10,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 331,
+  "fields": {
+    "row": 11,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 332,
+  "fields": {
+    "row": 11,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 333,
+  "fields": {
+    "row": 11,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 334,
+  "fields": {
+    "row": 11,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 335,
+  "fields": {
+    "row": 11,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 336,
+  "fields": {
+    "row": 11,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 337,
+  "fields": {
+    "row": 11,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 338,
+  "fields": {
+    "row": 11,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 339,
+  "fields": {
+    "row": 11,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 340,
+  "fields": {
+    "row": 11,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 341,
+  "fields": {
+    "row": 11,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 342,
+  "fields": {
+    "row": 11,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 343,
+  "fields": {
+    "row": 11,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 344,
+  "fields": {
+    "row": 11,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 345,
+  "fields": {
+    "row": 11,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 346,
+  "fields": {
+    "row": 11,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 347,
+  "fields": {
+    "row": 11,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 348,
+  "fields": {
+    "row": 11,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 349,
+  "fields": {
+    "row": 11,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 350,
+  "fields": {
+    "row": 11,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 351,
+  "fields": {
+    "row": 11,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 352,
+  "fields": {
+    "row": 11,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 353,
+  "fields": {
+    "row": 11,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 354,
+  "fields": {
+    "row": 11,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 355,
+  "fields": {
+    "row": 11,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 356,
+  "fields": {
+    "row": 11,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 357,
+  "fields": {
+    "row": 11,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 358,
+  "fields": {
+    "row": 11,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 359,
+  "fields": {
+    "row": 11,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 360,
+  "fields": {
+    "row": 11,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 361,
+  "fields": {
+    "row": 12,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 362,
+  "fields": {
+    "row": 12,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 363,
+  "fields": {
+    "row": 12,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 364,
+  "fields": {
+    "row": 12,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 365,
+  "fields": {
+    "row": 12,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 366,
+  "fields": {
+    "row": 12,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 367,
+  "fields": {
+    "row": 12,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 368,
+  "fields": {
+    "row": 12,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 369,
+  "fields": {
+    "row": 12,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 370,
+  "fields": {
+    "row": 12,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 371,
+  "fields": {
+    "row": 12,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 372,
+  "fields": {
+    "row": 12,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 373,
+  "fields": {
+    "row": 12,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 374,
+  "fields": {
+    "row": 12,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 375,
+  "fields": {
+    "row": 12,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 376,
+  "fields": {
+    "row": 12,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 377,
+  "fields": {
+    "row": 12,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 378,
+  "fields": {
+    "row": 12,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 379,
+  "fields": {
+    "row": 12,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 380,
+  "fields": {
+    "row": 12,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 381,
+  "fields": {
+    "row": 12,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 382,
+  "fields": {
+    "row": 12,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 383,
+  "fields": {
+    "row": 12,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 384,
+  "fields": {
+    "row": 12,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 385,
+  "fields": {
+    "row": 12,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 386,
+  "fields": {
+    "row": 12,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 387,
+  "fields": {
+    "row": 12,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 388,
+  "fields": {
+    "row": 12,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 389,
+  "fields": {
+    "row": 12,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 390,
+  "fields": {
+    "row": 12,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 391,
+  "fields": {
+    "row": 13,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 392,
+  "fields": {
+    "row": 13,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 393,
+  "fields": {
+    "row": 13,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 394,
+  "fields": {
+    "row": 13,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 395,
+  "fields": {
+    "row": 13,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 396,
+  "fields": {
+    "row": 13,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 397,
+  "fields": {
+    "row": 13,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 398,
+  "fields": {
+    "row": 13,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 399,
+  "fields": {
+    "row": 13,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 400,
+  "fields": {
+    "row": 13,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 401,
+  "fields": {
+    "row": 13,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 402,
+  "fields": {
+    "row": 13,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 403,
+  "fields": {
+    "row": 13,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 404,
+  "fields": {
+    "row": 13,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 405,
+  "fields": {
+    "row": 13,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 406,
+  "fields": {
+    "row": 13,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 407,
+  "fields": {
+    "row": 13,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 408,
+  "fields": {
+    "row": 13,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 409,
+  "fields": {
+    "row": 13,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 410,
+  "fields": {
+    "row": 13,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 411,
+  "fields": {
+    "row": 13,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 412,
+  "fields": {
+    "row": 13,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 413,
+  "fields": {
+    "row": 13,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 414,
+  "fields": {
+    "row": 13,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 415,
+  "fields": {
+    "row": 13,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 416,
+  "fields": {
+    "row": 13,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 417,
+  "fields": {
+    "row": 13,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 418,
+  "fields": {
+    "row": 13,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 419,
+  "fields": {
+    "row": 13,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 420,
+  "fields": {
+    "row": 13,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 421,
+  "fields": {
+    "row": 14,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 422,
+  "fields": {
+    "row": 14,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 423,
+  "fields": {
+    "row": 14,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 424,
+  "fields": {
+    "row": 14,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 425,
+  "fields": {
+    "row": 14,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 426,
+  "fields": {
+    "row": 14,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 427,
+  "fields": {
+    "row": 14,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 428,
+  "fields": {
+    "row": 14,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 429,
+  "fields": {
+    "row": 14,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 430,
+  "fields": {
+    "row": 14,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 431,
+  "fields": {
+    "row": 14,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 432,
+  "fields": {
+    "row": 14,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 433,
+  "fields": {
+    "row": 14,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 434,
+  "fields": {
+    "row": 14,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 435,
+  "fields": {
+    "row": 14,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 436,
+  "fields": {
+    "row": 14,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 437,
+  "fields": {
+    "row": 14,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 438,
+  "fields": {
+    "row": 14,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 439,
+  "fields": {
+    "row": 14,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 440,
+  "fields": {
+    "row": 14,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 441,
+  "fields": {
+    "row": 14,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 442,
+  "fields": {
+    "row": 14,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 443,
+  "fields": {
+    "row": 14,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 444,
+  "fields": {
+    "row": 14,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 445,
+  "fields": {
+    "row": 14,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 446,
+  "fields": {
+    "row": 14,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 447,
+  "fields": {
+    "row": 14,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 448,
+  "fields": {
+    "row": 14,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 449,
+  "fields": {
+    "row": 14,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 450,
+  "fields": {
+    "row": 14,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 451,
+  "fields": {
+    "row": 15,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 452,
+  "fields": {
+    "row": 15,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 453,
+  "fields": {
+    "row": 15,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 454,
+  "fields": {
+    "row": 15,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 455,
+  "fields": {
+    "row": 15,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 456,
+  "fields": {
+    "row": 15,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 457,
+  "fields": {
+    "row": 15,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 458,
+  "fields": {
+    "row": 15,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 459,
+  "fields": {
+    "row": 15,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 460,
+  "fields": {
+    "row": 15,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 461,
+  "fields": {
+    "row": 15,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 462,
+  "fields": {
+    "row": 15,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 463,
+  "fields": {
+    "row": 15,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 464,
+  "fields": {
+    "row": 15,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 465,
+  "fields": {
+    "row": 15,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 466,
+  "fields": {
+    "row": 15,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 467,
+  "fields": {
+    "row": 15,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 468,
+  "fields": {
+    "row": 15,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 469,
+  "fields": {
+    "row": 15,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 470,
+  "fields": {
+    "row": 15,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 471,
+  "fields": {
+    "row": 15,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 472,
+  "fields": {
+    "row": 15,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 473,
+  "fields": {
+    "row": 15,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 474,
+  "fields": {
+    "row": 15,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 475,
+  "fields": {
+    "row": 15,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 476,
+  "fields": {
+    "row": 15,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 477,
+  "fields": {
+    "row": 15,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 478,
+  "fields": {
+    "row": 15,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 479,
+  "fields": {
+    "row": 15,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 480,
+  "fields": {
+    "row": 15,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 481,
+  "fields": {
+    "row": 16,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 482,
+  "fields": {
+    "row": 16,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 483,
+  "fields": {
+    "row": 16,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 484,
+  "fields": {
+    "row": 16,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 485,
+  "fields": {
+    "row": 16,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 486,
+  "fields": {
+    "row": 16,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 487,
+  "fields": {
+    "row": 16,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 488,
+  "fields": {
+    "row": 16,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 489,
+  "fields": {
+    "row": 16,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 490,
+  "fields": {
+    "row": 16,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 491,
+  "fields": {
+    "row": 16,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 492,
+  "fields": {
+    "row": 16,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 493,
+  "fields": {
+    "row": 16,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 494,
+  "fields": {
+    "row": 16,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 495,
+  "fields": {
+    "row": 16,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 496,
+  "fields": {
+    "row": 16,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 497,
+  "fields": {
+    "row": 16,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 498,
+  "fields": {
+    "row": 16,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 499,
+  "fields": {
+    "row": 16,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 500,
+  "fields": {
+    "row": 16,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 501,
+  "fields": {
+    "row": 16,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 502,
+  "fields": {
+    "row": 16,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 503,
+  "fields": {
+    "row": 16,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 504,
+  "fields": {
+    "row": 16,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 505,
+  "fields": {
+    "row": 16,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 506,
+  "fields": {
+    "row": 16,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 507,
+  "fields": {
+    "row": 16,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 508,
+  "fields": {
+    "row": 16,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 509,
+  "fields": {
+    "row": 16,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 510,
+  "fields": {
+    "row": 16,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 511,
+  "fields": {
+    "row": 17,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 512,
+  "fields": {
+    "row": 17,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 513,
+  "fields": {
+    "row": 17,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 514,
+  "fields": {
+    "row": 17,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 515,
+  "fields": {
+    "row": 17,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 516,
+  "fields": {
+    "row": 17,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 517,
+  "fields": {
+    "row": 17,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 518,
+  "fields": {
+    "row": 17,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 519,
+  "fields": {
+    "row": 17,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 520,
+  "fields": {
+    "row": 17,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 521,
+  "fields": {
+    "row": 17,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 522,
+  "fields": {
+    "row": 17,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 523,
+  "fields": {
+    "row": 17,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 524,
+  "fields": {
+    "row": 17,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 525,
+  "fields": {
+    "row": 17,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 526,
+  "fields": {
+    "row": 17,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 527,
+  "fields": {
+    "row": 17,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 528,
+  "fields": {
+    "row": 17,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 529,
+  "fields": {
+    "row": 17,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 530,
+  "fields": {
+    "row": 17,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 531,
+  "fields": {
+    "row": 17,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 532,
+  "fields": {
+    "row": 17,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 533,
+  "fields": {
+    "row": 17,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 534,
+  "fields": {
+    "row": 17,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 535,
+  "fields": {
+    "row": 17,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 536,
+  "fields": {
+    "row": 17,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 537,
+  "fields": {
+    "row": 17,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 538,
+  "fields": {
+    "row": 17,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 539,
+  "fields": {
+    "row": 17,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 540,
+  "fields": {
+    "row": 17,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 541,
+  "fields": {
+    "row": 18,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 542,
+  "fields": {
+    "row": 18,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 543,
+  "fields": {
+    "row": 18,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 544,
+  "fields": {
+    "row": 18,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 545,
+  "fields": {
+    "row": 18,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 546,
+  "fields": {
+    "row": 18,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 547,
+  "fields": {
+    "row": 18,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 548,
+  "fields": {
+    "row": 18,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 549,
+  "fields": {
+    "row": 18,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 550,
+  "fields": {
+    "row": 18,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 551,
+  "fields": {
+    "row": 18,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 552,
+  "fields": {
+    "row": 18,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 553,
+  "fields": {
+    "row": 18,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 554,
+  "fields": {
+    "row": 18,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 555,
+  "fields": {
+    "row": 18,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 556,
+  "fields": {
+    "row": 18,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 557,
+  "fields": {
+    "row": 18,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 558,
+  "fields": {
+    "row": 18,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 559,
+  "fields": {
+    "row": 18,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 560,
+  "fields": {
+    "row": 18,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 561,
+  "fields": {
+    "row": 18,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 562,
+  "fields": {
+    "row": 18,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 563,
+  "fields": {
+    "row": 18,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 564,
+  "fields": {
+    "row": 18,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 565,
+  "fields": {
+    "row": 18,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 566,
+  "fields": {
+    "row": 18,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 567,
+  "fields": {
+    "row": 18,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 568,
+  "fields": {
+    "row": 18,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 569,
+  "fields": {
+    "row": 18,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 570,
+  "fields": {
+    "row": 18,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 571,
+  "fields": {
+    "row": 19,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 572,
+  "fields": {
+    "row": 19,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 573,
+  "fields": {
+    "row": 19,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 574,
+  "fields": {
+    "row": 19,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 575,
+  "fields": {
+    "row": 19,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 576,
+  "fields": {
+    "row": 19,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 577,
+  "fields": {
+    "row": 19,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 578,
+  "fields": {
+    "row": 19,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 579,
+  "fields": {
+    "row": 19,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 580,
+  "fields": {
+    "row": 19,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 581,
+  "fields": {
+    "row": 19,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 582,
+  "fields": {
+    "row": 19,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 583,
+  "fields": {
+    "row": 19,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 584,
+  "fields": {
+    "row": 19,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 585,
+  "fields": {
+    "row": 19,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 586,
+  "fields": {
+    "row": 19,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 587,
+  "fields": {
+    "row": 19,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 588,
+  "fields": {
+    "row": 19,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 589,
+  "fields": {
+    "row": 19,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 590,
+  "fields": {
+    "row": 19,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 591,
+  "fields": {
+    "row": 19,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 592,
+  "fields": {
+    "row": 19,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 593,
+  "fields": {
+    "row": 19,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 594,
+  "fields": {
+    "row": 19,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 595,
+  "fields": {
+    "row": 19,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 596,
+  "fields": {
+    "row": 19,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 597,
+  "fields": {
+    "row": 19,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 598,
+  "fields": {
+    "row": 19,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 599,
+  "fields": {
+    "row": 19,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 600,
+  "fields": {
+    "row": 19,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 601,
+  "fields": {
+    "row": 20,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 602,
+  "fields": {
+    "row": 20,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 603,
+  "fields": {
+    "row": 20,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 604,
+  "fields": {
+    "row": 20,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 605,
+  "fields": {
+    "row": 20,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 606,
+  "fields": {
+    "row": 20,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 607,
+  "fields": {
+    "row": 20,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 608,
+  "fields": {
+    "row": 20,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 609,
+  "fields": {
+    "row": 20,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 610,
+  "fields": {
+    "row": 20,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 611,
+  "fields": {
+    "row": 20,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 612,
+  "fields": {
+    "row": 20,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 613,
+  "fields": {
+    "row": 20,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 614,
+  "fields": {
+    "row": 20,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 615,
+  "fields": {
+    "row": 20,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 616,
+  "fields": {
+    "row": 20,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 617,
+  "fields": {
+    "row": 20,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 618,
+  "fields": {
+    "row": 20,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 619,
+  "fields": {
+    "row": 20,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 620,
+  "fields": {
+    "row": 20,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 621,
+  "fields": {
+    "row": 20,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 622,
+  "fields": {
+    "row": 20,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 623,
+  "fields": {
+    "row": 20,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 624,
+  "fields": {
+    "row": 20,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 625,
+  "fields": {
+    "row": 20,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 626,
+  "fields": {
+    "row": 20,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 627,
+  "fields": {
+    "row": 20,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 628,
+  "fields": {
+    "row": 20,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 629,
+  "fields": {
+    "row": 20,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 630,
+  "fields": {
+    "row": 20,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 631,
+  "fields": {
+    "row": 21,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 632,
+  "fields": {
+    "row": 21,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 633,
+  "fields": {
+    "row": 21,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 634,
+  "fields": {
+    "row": 21,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 635,
+  "fields": {
+    "row": 21,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 636,
+  "fields": {
+    "row": 21,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 637,
+  "fields": {
+    "row": 21,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 638,
+  "fields": {
+    "row": 21,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 639,
+  "fields": {
+    "row": 21,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 640,
+  "fields": {
+    "row": 21,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 641,
+  "fields": {
+    "row": 21,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 642,
+  "fields": {
+    "row": 21,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 643,
+  "fields": {
+    "row": 21,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 644,
+  "fields": {
+    "row": 21,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 645,
+  "fields": {
+    "row": 21,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 646,
+  "fields": {
+    "row": 21,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 647,
+  "fields": {
+    "row": 21,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 648,
+  "fields": {
+    "row": 21,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 649,
+  "fields": {
+    "row": 21,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 650,
+  "fields": {
+    "row": 21,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 651,
+  "fields": {
+    "row": 21,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 652,
+  "fields": {
+    "row": 21,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 653,
+  "fields": {
+    "row": 21,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 654,
+  "fields": {
+    "row": 21,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 655,
+  "fields": {
+    "row": 21,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 656,
+  "fields": {
+    "row": 21,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 657,
+  "fields": {
+    "row": 21,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 658,
+  "fields": {
+    "row": 21,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 659,
+  "fields": {
+    "row": 21,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 660,
+  "fields": {
+    "row": 21,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 661,
+  "fields": {
+    "row": 22,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 662,
+  "fields": {
+    "row": 22,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 663,
+  "fields": {
+    "row": 22,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 664,
+  "fields": {
+    "row": 22,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 665,
+  "fields": {
+    "row": 22,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 666,
+  "fields": {
+    "row": 22,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 667,
+  "fields": {
+    "row": 22,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 668,
+  "fields": {
+    "row": 22,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 669,
+  "fields": {
+    "row": 22,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 670,
+  "fields": {
+    "row": 22,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 671,
+  "fields": {
+    "row": 22,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 672,
+  "fields": {
+    "row": 22,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 673,
+  "fields": {
+    "row": 22,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 674,
+  "fields": {
+    "row": 22,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 675,
+  "fields": {
+    "row": 22,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 676,
+  "fields": {
+    "row": 22,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 677,
+  "fields": {
+    "row": 22,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 678,
+  "fields": {
+    "row": 22,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 679,
+  "fields": {
+    "row": 22,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 680,
+  "fields": {
+    "row": 22,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 681,
+  "fields": {
+    "row": 22,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 682,
+  "fields": {
+    "row": 22,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 683,
+  "fields": {
+    "row": 22,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 684,
+  "fields": {
+    "row": 22,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 685,
+  "fields": {
+    "row": 22,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 686,
+  "fields": {
+    "row": 22,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 687,
+  "fields": {
+    "row": 22,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 688,
+  "fields": {
+    "row": 22,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 689,
+  "fields": {
+    "row": 22,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 690,
+  "fields": {
+    "row": 22,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 691,
+  "fields": {
+    "row": 23,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 692,
+  "fields": {
+    "row": 23,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 693,
+  "fields": {
+    "row": 23,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 694,
+  "fields": {
+    "row": 23,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 695,
+  "fields": {
+    "row": 23,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 696,
+  "fields": {
+    "row": 23,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 697,
+  "fields": {
+    "row": 23,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 698,
+  "fields": {
+    "row": 23,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 699,
+  "fields": {
+    "row": 23,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 700,
+  "fields": {
+    "row": 23,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 701,
+  "fields": {
+    "row": 23,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 702,
+  "fields": {
+    "row": 23,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 703,
+  "fields": {
+    "row": 23,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 704,
+  "fields": {
+    "row": 23,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 705,
+  "fields": {
+    "row": 23,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 706,
+  "fields": {
+    "row": 23,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 707,
+  "fields": {
+    "row": 23,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 708,
+  "fields": {
+    "row": 23,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 709,
+  "fields": {
+    "row": 23,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 710,
+  "fields": {
+    "row": 23,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 711,
+  "fields": {
+    "row": 23,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 712,
+  "fields": {
+    "row": 23,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 713,
+  "fields": {
+    "row": 23,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 714,
+  "fields": {
+    "row": 23,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 715,
+  "fields": {
+    "row": 23,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 716,
+  "fields": {
+    "row": 23,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 717,
+  "fields": {
+    "row": 23,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 718,
+  "fields": {
+    "row": 23,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 719,
+  "fields": {
+    "row": 23,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 720,
+  "fields": {
+    "row": 23,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 721,
+  "fields": {
+    "row": 24,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 722,
+  "fields": {
+    "row": 24,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 723,
+  "fields": {
+    "row": 24,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 724,
+  "fields": {
+    "row": 24,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 725,
+  "fields": {
+    "row": 24,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 726,
+  "fields": {
+    "row": 24,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 727,
+  "fields": {
+    "row": 24,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 728,
+  "fields": {
+    "row": 24,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 729,
+  "fields": {
+    "row": 24,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 730,
+  "fields": {
+    "row": 24,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 731,
+  "fields": {
+    "row": 24,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 732,
+  "fields": {
+    "row": 24,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 733,
+  "fields": {
+    "row": 24,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 734,
+  "fields": {
+    "row": 24,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 735,
+  "fields": {
+    "row": 24,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 736,
+  "fields": {
+    "row": 24,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 737,
+  "fields": {
+    "row": 24,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 738,
+  "fields": {
+    "row": 24,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 739,
+  "fields": {
+    "row": 24,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 740,
+  "fields": {
+    "row": 24,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 741,
+  "fields": {
+    "row": 24,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 742,
+  "fields": {
+    "row": 24,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 743,
+  "fields": {
+    "row": 24,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 744,
+  "fields": {
+    "row": 24,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 745,
+  "fields": {
+    "row": 24,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 746,
+  "fields": {
+    "row": 24,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 747,
+  "fields": {
+    "row": 24,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 748,
+  "fields": {
+    "row": 24,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 749,
+  "fields": {
+    "row": 24,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 750,
+  "fields": {
+    "row": 24,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 751,
+  "fields": {
+    "row": 25,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 752,
+  "fields": {
+    "row": 25,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 753,
+  "fields": {
+    "row": 25,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 754,
+  "fields": {
+    "row": 25,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 755,
+  "fields": {
+    "row": 25,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 756,
+  "fields": {
+    "row": 25,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 757,
+  "fields": {
+    "row": 25,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 758,
+  "fields": {
+    "row": 25,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 759,
+  "fields": {
+    "row": 25,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 760,
+  "fields": {
+    "row": 25,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 761,
+  "fields": {
+    "row": 25,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 762,
+  "fields": {
+    "row": 25,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 763,
+  "fields": {
+    "row": 25,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 764,
+  "fields": {
+    "row": 25,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 765,
+  "fields": {
+    "row": 25,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 766,
+  "fields": {
+    "row": 25,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 767,
+  "fields": {
+    "row": 25,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 768,
+  "fields": {
+    "row": 25,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 769,
+  "fields": {
+    "row": 25,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 770,
+  "fields": {
+    "row": 25,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 771,
+  "fields": {
+    "row": 25,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 772,
+  "fields": {
+    "row": 25,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 773,
+  "fields": {
+    "row": 25,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 774,
+  "fields": {
+    "row": 25,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 775,
+  "fields": {
+    "row": 25,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 776,
+  "fields": {
+    "row": 25,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 777,
+  "fields": {
+    "row": 25,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 778,
+  "fields": {
+    "row": 25,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 779,
+  "fields": {
+    "row": 25,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 780,
+  "fields": {
+    "row": 25,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 781,
+  "fields": {
+    "row": 26,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 782,
+  "fields": {
+    "row": 26,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 783,
+  "fields": {
+    "row": 26,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 784,
+  "fields": {
+    "row": 26,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 785,
+  "fields": {
+    "row": 26,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 786,
+  "fields": {
+    "row": 26,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 787,
+  "fields": {
+    "row": 26,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 788,
+  "fields": {
+    "row": 26,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 789,
+  "fields": {
+    "row": 26,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 790,
+  "fields": {
+    "row": 26,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 791,
+  "fields": {
+    "row": 26,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 792,
+  "fields": {
+    "row": 26,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 793,
+  "fields": {
+    "row": 26,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 794,
+  "fields": {
+    "row": 26,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 795,
+  "fields": {
+    "row": 26,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 796,
+  "fields": {
+    "row": 26,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 797,
+  "fields": {
+    "row": 26,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 798,
+  "fields": {
+    "row": 26,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 799,
+  "fields": {
+    "row": 26,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 800,
+  "fields": {
+    "row": 26,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 801,
+  "fields": {
+    "row": 26,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 802,
+  "fields": {
+    "row": 26,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 803,
+  "fields": {
+    "row": 26,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 804,
+  "fields": {
+    "row": 26,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 805,
+  "fields": {
+    "row": 26,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 806,
+  "fields": {
+    "row": 26,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 807,
+  "fields": {
+    "row": 26,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 808,
+  "fields": {
+    "row": 26,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 809,
+  "fields": {
+    "row": 26,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 810,
+  "fields": {
+    "row": 26,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 811,
+  "fields": {
+    "row": 27,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 812,
+  "fields": {
+    "row": 27,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 813,
+  "fields": {
+    "row": 27,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 814,
+  "fields": {
+    "row": 27,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 815,
+  "fields": {
+    "row": 27,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 816,
+  "fields": {
+    "row": 27,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 817,
+  "fields": {
+    "row": 27,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 818,
+  "fields": {
+    "row": 27,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 819,
+  "fields": {
+    "row": 27,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 820,
+  "fields": {
+    "row": 27,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 821,
+  "fields": {
+    "row": 27,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 822,
+  "fields": {
+    "row": 27,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 823,
+  "fields": {
+    "row": 27,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 824,
+  "fields": {
+    "row": 27,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 825,
+  "fields": {
+    "row": 27,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 826,
+  "fields": {
+    "row": 27,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 827,
+  "fields": {
+    "row": 27,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 828,
+  "fields": {
+    "row": 27,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 829,
+  "fields": {
+    "row": 27,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 830,
+  "fields": {
+    "row": 27,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 831,
+  "fields": {
+    "row": 27,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 832,
+  "fields": {
+    "row": 27,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 833,
+  "fields": {
+    "row": 27,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 834,
+  "fields": {
+    "row": 27,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 835,
+  "fields": {
+    "row": 27,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 836,
+  "fields": {
+    "row": 27,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 837,
+  "fields": {
+    "row": 27,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 838,
+  "fields": {
+    "row": 27,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 839,
+  "fields": {
+    "row": 27,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 840,
+  "fields": {
+    "row": 27,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 841,
+  "fields": {
+    "row": 28,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 842,
+  "fields": {
+    "row": 28,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 843,
+  "fields": {
+    "row": 28,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 844,
+  "fields": {
+    "row": 28,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 845,
+  "fields": {
+    "row": 28,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 846,
+  "fields": {
+    "row": 28,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 847,
+  "fields": {
+    "row": 28,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 848,
+  "fields": {
+    "row": 28,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 849,
+  "fields": {
+    "row": 28,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 850,
+  "fields": {
+    "row": 28,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 851,
+  "fields": {
+    "row": 28,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 852,
+  "fields": {
+    "row": 28,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 853,
+  "fields": {
+    "row": 28,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 854,
+  "fields": {
+    "row": 28,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 855,
+  "fields": {
+    "row": 28,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 856,
+  "fields": {
+    "row": 28,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 857,
+  "fields": {
+    "row": 28,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 858,
+  "fields": {
+    "row": 28,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 859,
+  "fields": {
+    "row": 28,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 860,
+  "fields": {
+    "row": 28,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 861,
+  "fields": {
+    "row": 28,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 862,
+  "fields": {
+    "row": 28,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 863,
+  "fields": {
+    "row": 28,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 864,
+  "fields": {
+    "row": 28,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 865,
+  "fields": {
+    "row": 28,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 866,
+  "fields": {
+    "row": 28,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 867,
+  "fields": {
+    "row": 28,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 868,
+  "fields": {
+    "row": 28,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 869,
+  "fields": {
+    "row": 28,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 870,
+  "fields": {
+    "row": 28,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 871,
+  "fields": {
+    "row": 29,
+    "col": 0,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 872,
+  "fields": {
+    "row": 29,
+    "col": 1,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 873,
+  "fields": {
+    "row": 29,
+    "col": 2,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 874,
+  "fields": {
+    "row": 29,
+    "col": 3,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 875,
+  "fields": {
+    "row": 29,
+    "col": 4,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 876,
+  "fields": {
+    "row": 29,
+    "col": 5,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 877,
+  "fields": {
+    "row": 29,
+    "col": 6,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 878,
+  "fields": {
+    "row": 29,
+    "col": 7,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 879,
+  "fields": {
+    "row": 29,
+    "col": 8,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 880,
+  "fields": {
+    "row": 29,
+    "col": 9,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 881,
+  "fields": {
+    "row": 29,
+    "col": 10,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 882,
+  "fields": {
+    "row": 29,
+    "col": 11,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 883,
+  "fields": {
+    "row": 29,
+    "col": 12,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 884,
+  "fields": {
+    "row": 29,
+    "col": 13,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 885,
+  "fields": {
+    "row": 29,
+    "col": 14,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 886,
+  "fields": {
+    "row": 29,
+    "col": 15,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 887,
+  "fields": {
+    "row": 29,
+    "col": 16,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 888,
+  "fields": {
+    "row": 29,
+    "col": 17,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 889,
+  "fields": {
+    "row": 29,
+    "col": 18,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 890,
+  "fields": {
+    "row": 29,
+    "col": 19,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 891,
+  "fields": {
+    "row": 29,
+    "col": 20,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 892,
+  "fields": {
+    "row": 29,
+    "col": 21,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 893,
+  "fields": {
+    "row": 29,
+    "col": 22,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 894,
+  "fields": {
+    "row": 29,
+    "col": 23,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 895,
+  "fields": {
+    "row": 29,
+    "col": 24,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 896,
+  "fields": {
+    "row": 29,
+    "col": 25,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 897,
+  "fields": {
+    "row": 29,
+    "col": 26,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 898,
+  "fields": {
+    "row": 29,
+    "col": 27,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 899,
+  "fields": {
+    "row": 29,
+    "col": 28,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+},
+{
+  "model": "grid.block",
+  "pk": 900,
+  "fields": {
+    "row": 29,
+    "col": 29,
+    "owner_name": null,
+    "color": "#6b7280",
+    "captured_at": null
+  }
+}
+]

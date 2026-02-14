@@ -2,8 +2,7 @@
 
 **A real-time collaborative grid where users capture blocks and everyone sees updates instantly.**
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](YOUR_DEPLOYED_APP_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue)](YOUR_GITHUB_REPO_LINK)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)] https://gridgrab-1.onrender.com
 
 ---
 
@@ -21,7 +20,7 @@
 
 ## 🚀 Live Demo
 
-**Deployed App:** [YOUR_DEPLOYED_APP_LINK](YOUR_DEPLOYED_APP_LINK)
+**Deployed App:** https://gridgrab-1.onrender.com
 
 Open the link in multiple tabs or share with friends to see real-time collaboration in action!
 
@@ -107,9 +106,6 @@ GridGrab/
 │   └── vite.config.js
 │
 ├── requirements.txt           # Python dependencies
-├── BUILD_GUIDE.md             # Step-by-step build instructions
-├── BONUS_FEATURES_GUIDE.md   # Bonus features guide
-├── DEPLOY_GUIDE.md           # Deployment instructions
 └── README.md                  # This file
 ```
 
@@ -127,7 +123,7 @@ GridGrab/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/GridGrab.git
+   git clone https://github.com/Priyank0809/GridGrab.git
    cd GridGrab
    ```
 
@@ -379,14 +375,6 @@ Get top 15 players by block count.
 
 ---
 
-## 📚 Documentation
-
-- **[BUILD_GUIDE.md](BUILD_GUIDE.md)**: Complete step-by-step guide to build from scratch
-- **[BONUS_FEATURES_GUIDE.md](BONUS_FEATURES_GUIDE.md)**: Instructions for adding bonus features
-- **[DEPLOY_GUIDE.md](DEPLOY_GUIDE.md)**: Deployment instructions for GitHub and hosting
-
----
-
 ## 🤝 Contributing
 
 Contributions welcome! Feel free to:
@@ -415,9 +403,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-**GitHub**: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+**GitHub**: [YOUR_GITHUB_USERNAME](https://github.com/Priyank0809)
 
-**Project Link**: [YOUR_GITHUB_REPO_LINK](YOUR_GITHUB_REPO_LINK)
 
 ---
 
